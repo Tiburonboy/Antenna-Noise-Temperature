@@ -1,4 +1,4 @@
-# Antenna-Noise-Temperature
+# Antenna noise temperature
 I've started to gather some information and code for antenna noise temperature calculations.  For now this repository is a place for me to backup my files.   
 
 The backup folder contains zip files of work in progress.  The files are developed and run in CoCalc.com, which offers a comprehensive collection of software environments and libraries.  
